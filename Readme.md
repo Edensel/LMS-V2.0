@@ -1,6 +1,6 @@
 # Theora - Learning Management System Web Application
 
-Theora is a powerful learning management system (LMS) web application built using the MERN stack (MongoDB, Express, React, Node.js). It provides a dynamic and intuitive platform for learners and tutors to connect, collaborate, and explore a wide range of courses.
+This is a powerful learning management system (LMS) web application built using the MERN stack (MongoDB, Express, React, Node.js). It provides a dynamic and intuitive platform for learners and tutors to connect, collaborate, and explore a wide range of courses.
 
 ## Key Features
 
