@@ -106,7 +106,3 @@ Contributions to Theora are welcome! If you have any bug reports, feature reques
 ## Acknowledgements
 
 - This project was inspired by the love for learning and the desire to create a platform for knowledge sharing.
-
-## Contact
-
-For any inquiries or support, please reach out to our team at [riyasiqbal10@gmail.com](mailto:riyasiqbal10@gmail.com).
